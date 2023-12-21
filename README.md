@@ -12,5 +12,6 @@ added lines on 49 and 55 replaced div with nav
 
 fixed search-engine-optimization on line 39 with id and class
 
+edited 38 and 62 with section id and took of the div points
 
 
