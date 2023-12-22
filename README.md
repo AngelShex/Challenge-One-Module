@@ -14,6 +14,14 @@ Navigate to bash and ls cd to that repository that you have coppied on your newl
 Open the repository up by using git clone copy repo than pull it to your local machine 
 Next navigate over to Virtual Code and open up the file html code along with css
 
+#### License 
+First site I used is from UCR Bootcamp Coding Program starter off code
+Seocnd sitetation is the current instructor of Bootcamp Coding Program Dani Chankhour
+Third sitation is going to be from my one on one tourting from Juan Delgado 
+Fourth site will be from coding bootcamp links likt https://www.w3schools.com/TAGS/tag_aside.asp and makeareadme.com
+Fifth site will be from current other bootcamp classmates Nicole Brubaker and Fred Motta 
+Sixth site with be from the AI help module that come in my UCR canvas bootcamp 
+
 replaced a lot of Div with Sections and Nav
 
 fixed elements in CSS code for the div to be replaced with header elements 
