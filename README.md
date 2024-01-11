@@ -1,7 +1,9 @@
 # Challenge-One-Module
 
 # Repository Name 
-The name of this website is called horiseon search engine 
+The name of this website is called horiseon search engine
+
+A breaf discription of this site is users who want to have more advertising traffic directed to their website by using our companies product. 
 
 ## Usage
 This site use can described as a search engine who seaks business needs for customers who are searching for your company on the web
@@ -9,6 +11,10 @@ For those who pay for this site use their own company will gain more links to th
 Will also connect employers and buyers best suited social media apps that will generate more traction. 
 
 ### Installation 
+This is the links to deploy the file file:///Users/angelshelton/Documents/BootCamp/Challenge-One-Module/index.html#social-media-marketing
+
+git@github.com:AngelShex/Challenge-One-Module.git
+
 To install this repository copy folder items off git hub repository main branch into one that you have avalible 
 Navigate to bash and ls cd to that repository that you have coppied on your newley created folder 
 Open the repository up by using git clone copy repo than pull it to your local machine 
@@ -22,27 +28,6 @@ Fourth site will be from coding bootcamp links likt https://www.w3schools.com/TA
 Fifth site will be from current other bootcamp classmates Nicole Brubaker and Fred Motta 
 Sixth site with be from the AI help module that come in my UCR canvas bootcamp 
 seven site from google search engine 
-
-replaced a lot of Div with Sections and Nav
-
-fixed elements in CSS code for the div to be replaced with header elements 
-
-lines 33 and 39 updated with nav 
-
-added lines on 41 and 47 replaced div with nav
-
-added lines on 49 and 55 replaced div with nav
-
-fixed search-engine-optimization on line 39 with id and class
-
-edited 38 and 62 with section id and took of the div points
-
-fixed footer replaced div with footer tag 
-
-went into css and removed class to just be footer
-
-Added horison search engine to line 9 replaced website
-
 
 
 
