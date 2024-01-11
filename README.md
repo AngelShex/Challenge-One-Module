@@ -21,6 +21,7 @@ Third sitation is going to be from my one on one tourting from Juan Delgado
 Fourth site will be from coding bootcamp links likt https://www.w3schools.com/TAGS/tag_aside.asp and makeareadme.com
 Fifth site will be from current other bootcamp classmates Nicole Brubaker and Fred Motta 
 Sixth site with be from the AI help module that come in my UCR canvas bootcamp 
+seven site from google search engine 
 
 replaced a lot of Div with Sections and Nav
 
