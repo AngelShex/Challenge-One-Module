@@ -1,9 +1,7 @@
 # Challenge-One-Module
 
 # Repository Name 
-The name of this website is called horiseon search engine
-
-A breaf discription of this site is users who want to have more advertising traffic directed to their website by using our companies product. 
+The name of this website is called horiseon search engine given by its name it is used by business to give there customers visabilty to there website. A description of this site is users who want to have more advertising traffic directed to their website by using our companies product. Also gives the user controll of what their customers search when viewing your business. 
 
 ## Usage
 This site use can described as a search engine who seaks business needs for customers who are searching for your company on the web
@@ -11,7 +9,7 @@ For those who pay for this site use their own company will gain more links to th
 Will also connect employers and buyers best suited social media apps that will generate more traction. 
 
 ### Installation 
-This is the links to deploy the file file:///Users/angelshelton/Documents/BootCamp/Challenge-One-Module/index.html#social-media-marketing
+This is the links to deploy the file https://angelshex.github.io/Challenge-One-Module/  this will help users navigate to my site as well as heading over to my git hub account and seeing the websites URL here is a link to my Git Hub account https://github.com/AngelShex/Challenge-One-Module
 
 
 
